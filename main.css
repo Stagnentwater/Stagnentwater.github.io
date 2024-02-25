@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(18, 18, 18);
+}
+
+header{
+    text-align: center;
+    color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#header_div{
+    border: none;
+
+}
+#main_div{
+    border: none;
+    margin-top: 20px;
+    margin: solid;
+}
+div{
+    background-color: rgb(55, 55, 55);
+    border: solid;
+    border-color: rgb(0, 117, 146);
+    color: rgb(255, 90, 90);
+}
